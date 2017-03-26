@@ -1,6 +1,4 @@
-Spring 2016 - CMSC 425: Final Project
-----------------------------------------------------------------
-James Collins
+Contents
 
 1. Functional Description
 2. Controls and Movement
@@ -13,8 +11,7 @@ James Collins
 
 Project Title: Deja Boom
 Team Members: James Collins
-Video: The video file can be found in this directory. 
-It is named “Deja Boom Final Project Movie.mov”
+A video demonstrating the game’s features and how to beat it can be found at https://www.youtube.com/watch?v=0y8tRRhk_qc&feature=youtu.be
 
 Short Description:
 
