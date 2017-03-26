@@ -11,6 +11,10 @@ Contents
 
 Project Title: Deja Boom
 Team Members: James Collins
+
+The game has an online web player at https://jbccollins.github.io/Deja-Boom/
+Note that Google Chrome does not support the unity web player so you will have to use a different browser.
+
 A video demonstrating the game’s features and how to beat it can be found at https://www.youtube.com/watch?v=0y8tRRhk_qc&feature=youtu.be
 
 Short Description:
